@@ -1,0 +1,5 @@
+# Ignorar pastas bin e obj
+bin/
+obj/
+packages/
+Properties/
